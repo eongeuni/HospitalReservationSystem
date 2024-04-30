@@ -1,0 +1,27 @@
+﻿  VRS.c
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\VRS.h(32,34): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\VRS.h(32,26): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\VRS.h(33,34): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\VRS.h(33,26): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\VRS.h(34,43): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[12]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\VRS.h(34,26): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(100,47): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(100,39): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(120,9): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(125,9): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(130,9): warning C4477: 'scanf' : 서식 문자열 '%[^\n]'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(136,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(137,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(138,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(194,37): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(194,29): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(196,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(197,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(198,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(227,32): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[10]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(227,24): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(228,32): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(228,24): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(229,41): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[12]'과(와) 다릅니다.
+C:\Users\symam\Desktop\HospitalReservationSystem\HospitalReservationSystem\LinkedList.h(229,24): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  HospitalReservationSystem.vcxproj -> C:\Users\symam\Desktop\HospitalReservationSystem\x64\Debug\HospitalReservationSystem.exe
